@@ -6,8 +6,9 @@
   </head>
   <body>
     <?php
-      echo("Hello, world!");
+      echo("Hello, Git!");
     // phpinfo();
     ?>
   </body>
 </html>
+~
